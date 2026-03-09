@@ -1,7 +1,11 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-## Name : SUJITHRA K
-## Reg No:212223040212
+**Date:** 09:03:2026 
+
+**Register No:** 212223040212
+
+**Name:** SUJITHRA K
+
 ---
 
 ## Aim
